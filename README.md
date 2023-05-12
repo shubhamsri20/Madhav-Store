@@ -1,12 +1,5 @@
 # Madhav-Store
 Created Interactive Dashboard using PowerBI
-Hi 
-
-I hope you are having a great day.
-
-Presenting my first ever PowerBI Dashboard analyzing Sales of Madhav Online Store 🏪 , With the help of PowerBI's intuitive and powerful data visualization tools, I was able to dive deep into our sales data and uncover key insights about our customers and products. By examining metrics like sales by order, category, sub-category, region, and time period.
-
-Now let's talk about the objective, conclusions, and key takeaways that I've obtained from the analysis 📈 :
 
 ▶ Objective👇:
 
@@ -40,11 +33,3 @@ The owner of the Madhav Store wants us to help them create a dashboard to track 
 
 4. Used different types of customized visualizations in the form of bar charts, donut charts, clustered bar charts, tiles, and slicers.
 
-Dashboard link- 
-
-Big shoutout to Rishabh Mishra for his outstanding content 
-Please share your valuable feedback and improvements in the comment section. 💬 
-
-
-
-#powerbi #visualization #data #learning #people #sales #india #like #comment #madhav #rishabhmishra #retailsales #onlineshopping  #dashboard 
